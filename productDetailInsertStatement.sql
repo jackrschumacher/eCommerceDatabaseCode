@@ -11,4 +11,4 @@ VALUES
 	(009, 'Samsung Galaxy Z Fold 5', 'Factory unlocked Android smartphone 256 GB', 'Cell Phones', 8, 10, 1, 'Very popular'),
 	(010, 'Samsung Galaxy Z Fold 3', 'Factory unlocked Android smartphone 256 GB', 'Cell Phones', 7, 10, 3, 'Very popular'),
 	(011, 'iPhone 15 Pro Max', 'Apple iPhone 15 Pro Max 256 GB - Black Titanium', 'Cell Phones', 9, 10, 1, 'Very popular'),
-	(012, 'iMac', 'The worlds best all in one, now supercharged by the M3 Chip', 'Laptop Computers', 8, 10, 1, 'Very popular'),(013, 'iPhone SE', 'The iPhone with a lower price, and a fast processor', 'Cell Phones', 9, 10, 1, '1.5 years old, due for a refresh in about 6 months, able to discount');
+	(012, 'iMac', 'The worlds best all in one, now supercharged by the M3 Chip', 'Laptop Computers', 8, 10, 1, 'Very popular'),(013, 'iPhone SE', 'The iPhone with a lower price, and a fast processor', 'Cell Phones', 9, 10, 1, '1.5 years old, due for a refresh in about 6 months, able to discount'),
