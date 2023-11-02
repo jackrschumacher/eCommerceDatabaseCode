@@ -1,7 +1,7 @@
 INSERT INTO productDetail
 VALUES
-  (001, 'iPad Air 5', 'iPad Air 5', 'Technology', 8.5, 10, 1, 'High Volume'),
-  (002, 'iPad Air 4', 'iPad Air 4', 'Technology', 6, 10, 1, 'High Volume'),
+	(001, 'iPad Air 5', 'iPad Air 5', 'Technology', 8.5, 10, 1, 'High Volume'),
+	(002, 'iPad Air 4', 'iPad Air 4', 'Technology', 6, 10, 1, 'High Volume'),
 	(003, 'iPad 10', 'iPad 10', 'Technology', 9.2, 10, 1, 'Entry level iPad. Extremley high volume'),
 	(004, 'iPad Pro 12.9 inch', 'iPad Pro 12.9 inch with M2 chip, FaceID, Liquid Retina XDR display, and 12 MP and 10 MP Facetime cameras.', 'Technology', 6, 10, 1, 'Lower volume than the 11 inch model'),
 	(005, 'iPad Pro 11 inch', 'iPad Pro with 11 inch display, M2 chip, dual cameras, Face ID', 'Technology', 6, 10, 1, 'Highest volume Ipad Pro.'),
@@ -11,4 +11,12 @@ VALUES
 	(009, 'Samsung Galaxy Z Fold 5', 'Factory unlocked Android smartphone 256 GB', 'Cell Phones', 8, 10, 1, 'Very popular'),
 	(010, 'Samsung Galaxy Z Fold 3', 'Factory unlocked Android smartphone 256 GB', 'Cell Phones', 7, 10, 3, 'Very popular'),
 	(011, 'iPhone 15 Pro Max', 'Apple iPhone 15 Pro Max 256 GB - Black Titanium', 'Cell Phones', 9, 10, 1, 'Very popular'),
-	(012, 'iMac', 'The worlds best all in one, now supercharged by the M3 Chip', 'Laptop Computers', 8, 10, 1, 'Very popular'),(013, 'iPhone SE', 'The iPhone with a lower price, and a fast processor', 'Cell Phones', 9, 10, 1, '1.5 years old, due for a refresh in about 6 months, able to discount'),
+	(012, 'iMac', 'The worlds best all in one, now supercharged by the M3 Chip', 'Laptop Computers', 8, 10, 1, 'Very popular'),
+	(013, 'iPhone SE', 'The iPhone with a lower price, and a fast processor', 'Cell Phones', 9, 10, 1, '1.5 years old, due for a refresh in about 6 months, able to discount'),
+	(014, 'ASUS Zepherus G 14', '16 GB of RAM and a 1 TB SSD', 'Laptop Computers', 7.5, 10, 1, 'About a year old, able to be discounted'),
+	(015, 'Panasonic Toughbook 40', '16 GB of RAM and 512 GB', 'Laptop Computers', 9, 10, 1, 'Not very high volume due to its small market'),
+	(016, 'Apple AirTag', 'Keep track of items alongside friends and devices in the FindMy app', 'Item finders', 8.5, 10, 1, 'About a 3 years old, able to be discounted'),
+	(017, 'Apple USB SuperDrive', 'The Sleek, Compact, USB Superdrive', 'External CD or DVD Drives', 9, 10, 1, '10 years old'),
+	(018, 'Apple Watch SE with Silver Aluminum Case', 'All the essentials to help you monitor your fitness, keep connected, track your health, and stay safe', 'Smartwatches', 8, 10, 1, '1 year old, able to be discounted'),
+	(019, 'Apple Watch Ultra 2', 'Rugged, Capable, and built to meet the demands of outdoor adventurers.', 'Smartwatches', 8, 10, 1, 'New product'),
+	(020, 'AirPods Pro 2', 'Next-Level Noise cancellation', 'Earbuds', 9, 10, 1, 'New product'),
