@@ -3,7 +3,6 @@ CREATE TABLE employeeTable(
 	employeeFirstName varchar(MAX),
 	employeeLastName varchar(MAX),
 	employeeContactEmail varchar(MAX),
-	employeeContactPhone tinyint,
 	employeeStartDate date,
 	employeePosition varchar(MAX),
 );
