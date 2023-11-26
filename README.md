@@ -9,13 +9,13 @@ Information about roles found here: https://learn.microsoft.com/en-us/sql/relati
 * Can drop a database from the server
 
 ### Secuirty Manager (db_securityadmin)
-* Able to modify those who have acess to custom roles
+* Able to modify those who have access to custom roles
 * Able to manage permssions
 * Possibly able to elevate thier own privledges without need for an admin
-* Can acess everything in the server
+* Can access everything in the server
 
-### Acess Admin (db_acessAdmin)
-* Add or remove acess to users
+### access Admin (db_accessAdmin)
+* Add or remove access to users
 * Windows logins, Windows groups, SQL Server logins
 
 ### hrEdit (db_datawriter)
