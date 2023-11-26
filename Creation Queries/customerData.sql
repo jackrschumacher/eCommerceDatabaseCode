@@ -7,5 +7,5 @@ CREATE TABLE customerData(
 	lastAccountActivityDate date,
 	accountType varchar(MAX),
 	purchaseMethod varchar(MAX),
-	cardDetails tinyint 
+	cardDetails varchar(19) 
 );
