@@ -1,20 +1,20 @@
 # eCommerceDatabaseCode
 Code for the eCommerce database for Database Management 
 
-## Database Roles
+## DatabaseRoles
 Information about roles found here: https://learn.microsoft.com/en-us/sql/relational-databases/security/authentication-access/database-level-roles?view=sql-server-ver16
 
-### Database Owner (db_owner)
+### DatabaseOwner (db_owner)
 * Perform configuration and maintence
 * Can drop a database from the server
 
-### Secuirty Manager (db_securityadmin)
+### SecurityManager (db_securityadmin)
 * Able to modify those who have access to custom roles
 * Able to manage permssions
-* Possibly able to elevate thier own privledges without need for an admin
+* Possibly able to elevate their own privileges without need for an admin
 * Can access everything in the server
 
-### access Admin (db_accessAdmin)
+### accessAdmin (db_accessadmin)
 * Add or remove access to users
 * Windows logins, Windows groups, SQL Server logins
 
