@@ -1,9 +1,10 @@
-CREATE TABLE salaryTable(
-	employeeID int PRIMARY KEY,
-	lastPayDate date,
-	lastPayAmountGross smallmoney,
-	lastPayAmountNet smallmoney,
-	payPeriodStart date,
-	payPeriodEnd date,
-	payPeriodNotes varchar(MAX),
+CREATE TABLE productDetail(
+	productID int PRIMARY KEY,
+	productName varchar(MAX),
+	productDescription varchar(MAX),
+	productCategory varchar(MAX),
+	productAverageRating int,
+	productBestRating int,
+	productWorstRating int,
+	productFlags varchar(MAX)
 );
